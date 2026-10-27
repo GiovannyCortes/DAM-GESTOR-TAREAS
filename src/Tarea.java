@@ -23,7 +23,7 @@ public class Tarea {
     }
 
     public void setTitulo(String titulo) {
-        this.titulo = titulo;
+        this.titulo = titulo; // CAMBIO PARA QUE EL TITULO NO SEA NULO NI VACIO
     }
 
     public void setCompletada(boolean completada) {
